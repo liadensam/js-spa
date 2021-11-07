@@ -1,0 +1,9 @@
+#category ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+#category ul li {
+  cursor: pointer;
+}
